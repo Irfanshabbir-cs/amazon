@@ -4,11 +4,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-A modern front-end e-commerce landing page inspired by Amazon, built using plain HTML, CSS, and JavaScript.
+A polished front-end e-commerce landing page inspired by Amazon, built using plain HTML, CSS, and JavaScript.
 
-This project focuses on recreating the visual style and structure of a familiar shopping experience, including navigation, product sections, promotional banners, and responsive layout behavior.
+This project recreates the look and feel of a modern online shopping experience with structured product sections, a promotional hero area, and a responsive storefront layout that highlights strong front-end design skills.
 
 ## Why this project stands out
+
+- Clean marketplace-inspired layout and branding
+- Strong focus on product presentation and user experience
+- Responsive design for desktop and mobile viewing
+- Lightweight implementation with no framework dependency
+- Excellent front-end portfolio project for UI and layout work
 
 - Clean, e-commerce-inspired UI design
 - Responsive layout for different screen sizes
